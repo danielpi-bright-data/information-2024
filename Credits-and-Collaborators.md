@@ -68,4 +68,4 @@ Each team will receive $3,500 worth of credits to use on Bright Data various web
 * Please contact us at [info@brightinitiative.com](info@brightinitiative.com?subject=TEDAI%20SF%20Hackathon%3A%20I%20just%20opened%20an%20account%20on%20BD!) once you’ve created an account so we could allocate the relevant credits.
 
 ### Useful info
-[Products documentation](https://docs.brightdata.com/introduction) | [Impact Use Cases](https://brightinitiative.com/partners-stories) | Scheduled platform overview: [Keshet](https://calendly.com/keshet_brightdata/bright-data-x-tedai-san-francisco-hackathon) / [Daniel](https://calendly.com/danielpi_brightdata/bright-data-x-tedai-sf)
+[Products documentation](https://docs.brightdata.com/introduction) | [Impact Use Cases](https://brightinitiative.com/partners-stories) | Schedule platform overview with us: [Keshet](https://calendly.com/keshet_brightdata/bright-data-x-tedai-san-francisco-hackathon) / [Daniel](https://calendly.com/danielpi_brightdata/bright-data-x-tedai-sf)

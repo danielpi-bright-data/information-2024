@@ -64,7 +64,7 @@ Our data collection tools include:
 - Web Scraper IDE: A cloud solution designed for developers to build fast and scalable scrapers in a JavaScript coding environment. 
 
 Each team will receive $3,500 worth of credits to use on Bright Data various web data solutions. 
-[Sign up link](https://forms.gle/k9bkDLv4MdTTuoLa8) 
+[Sign up to our platform here](https://forms.gle/k9bkDLv4MdTTuoLa8) 
 * Please contact us at [info@brightinitiative.com](info@brightinitiative.com?subject=TEDAI%20SF%20Hackathon%3A%20I%20just%20opened%20an%20account%20on%20BD!) once you’ve created an account so we could allocate the relevant credits.
 
 ### Useful info

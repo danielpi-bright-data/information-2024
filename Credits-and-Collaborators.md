@@ -55,13 +55,8 @@ We will be adding more resources to this page. Stay tuned!
 
 Bright Data is the world’s #1 web data collection company that offers an all-in-one platform for proxies and web scraping. Our platform allows you to access, collect, and structure publicly available data at scale.
 Our data collection tools include:
-- Proxies: Data Centers, ISP, Residential, and Mobile IPs.
-- Web Unlocker: CAPTCHA solving and overcoming other blocking issues.
-- Scraping Browser: All-in-one scraping browser automotaiotn with built-in unblocking features.
-- SERP API: Search engine scarping solution.
-- Dataset Marketplace: Ready made datasets with advanced filtering system.
-- Web Scraper API: Removing the need to develop and maintain web scrapers for popular sites.
-- Web Scraper IDE: A cloud solution designed for developers to build fast and scalable scrapers in a JavaScript coding environment. 
+- Proxies adn Web Unlocking: Data Centers, ISP, Residential, Mobile IPs, CAPTCHA solving, Scraping browser automation, Search engine scraping.
+- Structred Data: Ready made datasets, Web Scraper API, Web Scrapering colud solution
 
 Each team will receive $3,500 worth of credits to use on Bright Data various web data solutions. 
 [Sign up to our platform here](https://forms.gle/k9bkDLv4MdTTuoLa8) 
